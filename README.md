@@ -1,2 +1,3 @@
 # git_test
-Learning git via TOP
+Learning git via The Odin Project (TOP)
+Hello Odin!
